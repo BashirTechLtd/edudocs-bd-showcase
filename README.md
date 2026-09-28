@@ -95,21 +95,8 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
-## 🎯 Designed For
 
-EduDocs BD is designed for:
-
-* 👨‍🏫 School Teachers
-* 👩‍🏫 Coaching Center Teachers
-* 👨‍🎓 Private Tutors & Educators
-* 🏫 Schools & Colleges
-* 🕌 Madrasahs
-* 📚 Coaching Centers
-* 🎓 Educational Institutions
-
----
-
-## 📱 App Showcase
+## 📱 App ScreenShot
 
 ### Home Screen
 
