@@ -6,8 +6,6 @@ EduDocs BD is an Android application designed for teachers, coaching centers, pr
 
 It helps educators create professional educational documents quickly from a single mobile application.
 
-> 📝 Create • 📄 Organize • 📤 Export • 🖨️ Print
-
 
 
 ## ✨ Features
