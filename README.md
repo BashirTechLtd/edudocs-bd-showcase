@@ -1,114 +1,231 @@
-# 👋 Hi, I'm Bosir
+# 📱 EduDocs BD
 
-### Android App Developer | Kotlin | Mobile App Development
+### Education Document Builder for Bangladesh 🇧🇩
 
-I’m an Android App Developer passionate about building practical, user-friendly mobile applications and exploring modern technologies.
+EduDocs BD is an Android application designed to help teachers, coaching centers, and private educators create educational documents quickly and efficiently.
 
-I enjoy turning real-world problems into useful Android applications with clean UI, thoughtful UX, and reliable functionality.
-
----
-
-## 🚀 Featured Project
-
-### 📱 EduDocs BD
-
-**Education Document Builder for Bangladesh**
-
-A professional Android application designed to help teachers, coaching centers, and private educators create educational documents quickly and efficiently.
-
-**Key Features**
-
-* 📝 Question Paper Builder
-* 📊 Result Sheet Generator
-* 📢 Notice Maker
-* 📅 Exam & Class Routine Builder
-* 📚 Syllabus Builder
-* 🏆 Certificate Generator
-* 🎫 Admit Card Builder
-* 📄 Assignment & Homework
-* ✍️ Application Letter Templates
-* 📑 PDF & Word Export
-* 📱 Offline Document Creation
-* 🌐 Bangla & English Support
-
-**Status:** Published on Google Play Store
-
-🔗 **Google Play:** `YOUR_PLAY_STORE_LINK`
+The application focuses on simplifying everyday document creation while supporting educational formats commonly used in Bangladesh.
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Overview
 
-### Android Development
+Creating educational documents manually can be time-consuming.
+
+EduDocs BD brings commonly used educational document tools into a single Android application, allowing educators to create, customize, save, preview, and export documents from their mobile devices.
+
+---
+
+## 🚀 Key Features
+
+### 📝 Question Paper Builder
+
+Create structured question papers using formats designed for Bangladesh's educational system.
+
+* CQ / Creative Questions
+* MCQ
+* English Questions
+* Exam-specific formats
+* Image support
+* Formula & symbol support
+* Question paper preview
+* PDF export
+* Word export
+* Booklet printing support
+
+---
+
+### 📊 Result Sheet Generator
+
+Generate professional student and class result sheets.
+
+* Student information
+* Subject-wise marks
+* Automatic grade calculation
+* GPA calculation
+* Individual result card
+* Class result sheet
+* Printable result format
+
+---
+
+### 📢 Notice Maker
+
+Create different types of educational notices.
+
+* General Notice
+* Exam Notice
+* Fee Notice
+* Holiday Notice
+* Admission Notice
+* Parents' Meeting
+* Result Announcement
+
+---
+
+### 📅 Routine Builders
+
+Create organized academic schedules.
+
+* Exam Routine
+* Class Routine
+* Customizable subjects
+* Time & date management
+* Printable layouts
+
+---
+
+### 📚 Educational Documents
+
+Additional document creation tools include:
+
+* Syllabus
+* Certificate
+* Admit Card
+* Assignment
+* Homework
+* Application & Request Letters
+
+---
+
+## 📄 Export & Printing
+
+Documents can be prepared for practical use through:
+
+* PDF Export
+* Microsoft Word Export
+* Direct Printing
+* Document Sharing
+* Booklet Printing
+
+---
+
+## 🌐 Language Support
+
+EduDocs BD is designed with bilingual usage in mind.
+
+* 🇧🇩 Bangla
+* 🇬🇧 English
+
+---
+
+## 📱 Screenshots
+
+### Home Screen
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="280">
+</p>
+
+### Question Paper Builder
+
+<p align="center">
+  <img src="assets/screenshots/question-paper.png" width="280">
+</p>
+
+### Result Sheet
+
+<p align="center">
+  <img src="assets/screenshots/result-sheet.png" width="280">
+</p>
+
+### Notice Maker
+
+<p align="center">
+  <img src="assets/screenshots/notice.png" width="280">
+</p>
+
+---
+
+## 🛠️ Technology
+
+The application is built for the Android platform using modern Android development technologies.
+
+**Platform**
+
+* Android
+
+**Development**
 
 * Kotlin
 * Android SDK
 * Jetpack
-* Jetpack Compose
-* XML Layouts
 * Material Design
 
-### Tools & Technologies
+**Tools**
 
 * Android Studio
 * Git
 * GitHub
-* Firebase
-* REST APIs
-* JSON
-
-### Currently Exploring
-
-* Modern Android Architecture
-* Advanced Kotlin
-* Backend & Cloud Technologies
-* App Performance Optimization
-* AI-powered Applications
 
 ---
 
-## 📱 What I Build
+## 🧩 Product Highlights
 
-I’m interested in building Android applications that solve practical problems and provide a simple, efficient user experience.
-
-My focus areas include:
-
-* 📱 Android Application Development
-* 🎨 Mobile UI/UX
-* 🧩 Problem Solving
-* ⚡ App Performance
-* 🔌 API Integration
-* ☁️ Cloud & Backend Technologies
-* 🤖 AI-powered Features
-
----
-
-## 📂 Projects
-
-| Project       | Description                       | Status            |
-| ------------- | --------------------------------- | ----------------- |
-| 📱 EduDocs BD | Education Document Builder        | 🟢 Published      |
-| 🏏 SportPilot | Tournament Management Application | 🟡 In Development |
-
-More projects coming soon...
+* 📱 Mobile-first document creation
+* ⚡ Fast document generation
+* 🎨 Professional document layouts
+* 🇧🇩 Bangladesh-focused formats
+* 📄 PDF & Word export
+* 🖨️ Print-ready documents
+* 💾 Draft saving
+* ⭐ Favorite documents
+* 🌙 Light & Dark themes
+* 🌐 Bangla & English support
 
 ---
 
-## 📊 GitHub
+## 🎯 Target Users
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true\&rank_icon=github)
+EduDocs BD is designed for:
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: `YOUR_LINKEDIN_URL`
-* ▶️ YouTube: `YOUR_YOUTUBE_URL`
-* 📧 Email: `YOUR_EMAIL`
-* 📱 Google Play: `YOUR_PLAY_STORE_LINK`
+* 👨‍🏫 School Teachers
+* 👩‍🏫 Private Tutors
+* 🏫 Coaching Centers
+* 🎓 Educational Institutions
+* 📚 Academic Professionals
 
 ---
 
-### 💡 Building ideas into useful apps.
+## 🔐 Source Code
 
-⭐ Feel free to explore my projects and follow my development journey.
+The source code for EduDocs BD is not publicly available.
+
+This repository is a **portfolio and product showcase** containing selected information, screenshots, and documentation about the application.
+
+---
+
+## 📲 Google Play
+
+**EduDocs BD is available on Google Play.**
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Available-green?style=for-the-badge\&logo=google-play)](YOUR_PLAY_STORE_LINK)
+
+---
+
+## 👨‍💻 Developer
+
+**Bosir**
+
+Android App Developer focused on building practical mobile applications and exploring modern technologies.
+
+### Connect
+
+* GitHub: `YOUR_GITHUB_PROFILE`
+* LinkedIn: `YOUR_LINKEDIN_URL`
+* YouTube: `YOUR_YOUTUBE_URL`
+* Email: `YOUR_EMAIL`
+
+---
+
+## ⭐ About This Project
+
+EduDocs BD is a real-world Android application developed to solve practical document-creation problems faced by educators.
+
+The project focuses on usability, document formatting, offline workflows, and Bangladesh-specific educational requirements.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for educators in Bangladesh 🇧🇩</b>
+</p>
