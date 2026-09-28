@@ -224,7 +224,7 @@ The application is publicly available on Google Play and continues to receive up
 
 ## 👨‍💻 Developer
 
-### Bosir
+### Md Bashir
 
 **Android App Developer**
 
