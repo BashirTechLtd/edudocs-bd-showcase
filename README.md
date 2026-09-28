@@ -131,19 +131,6 @@ Create educational applications and request letters using ready-to-use templates
 * Material Design
 
 
-
-## 💡 Product Highlights
-
-* 🇧🇩 Bangladesh-focused educational use cases
-* 📱 Android-first experience
-* 📝 Multiple educational document builders
-* 🎨 Professional document layouts
-* ⚡ Fast document creation
-* 📄 Export-ready documents
-* 🖨️ Print-friendly formats
-* 📚 Multiple document categories
-* 🌐 Designed for educators
-
 ---
 
 
