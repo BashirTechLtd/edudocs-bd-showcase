@@ -162,9 +162,9 @@ Create educational applications and request letters using ready-to-use templates
 
 ### Connect With Me
 
-- 💻 GitHub: `YOUR_GITHUB_PROFILE`
-- 💼 LinkedIn: `YOUR_LINKEDIN_PROFILE`
-- ▶️ YouTube: `YOUR_YOUTUBE_CHANNEL`
+- 💻 GitHub: https://github.com/BashirTechLtd
+- 💼 LinkedIn: Comming Soon.
+- ▶️ YouTube: https://www.youtube.com/@MdBashirOfficial
 - 📧 Email: [mdbashir.dev@gmail.com](mailto:mdbashir.dev@gmail.com)
 
 
