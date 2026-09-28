@@ -214,13 +214,6 @@ Published on Google Play.
 
 ---
 
-## 📈 Project Status
-
-🟢 **Published**
-
-The application is publicly available on Google Play and continues to receive updates, improvements, performance optimizations, and bug fixes.
-
----
 
 ## 👨‍💻 Developer
 
