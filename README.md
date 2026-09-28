@@ -96,68 +96,64 @@ Create educational applications and request letters using ready-to-use templates
 ---
 
 
-## 📱 App ScreenShot
+## 📱 App Screenshot
 
-### Home Screen
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Screen</b><br><br>
+      <img src="assets/screenshots/Home Screen.jpeg" width="400">
+    </td>
+    <td align="center">
+      <b>My Documents</b><br><br>
+      <img src="assets/screenshots/My Documents.jpeg" width="400">
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="assets/screenshots/Home Screen.jpeg" width="850">
-</p>
+  <tr>
+    <td align="center">
+      <b>Favorites</b><br><br>
+      <img src="assets/screenshots/Fav.jpeg" width="400">
+    </td>
+    <td align="center">
+      <b>MCQ Question Paper</b><br><br>
+      <img src="assets/screenshots/MCQ.jpeg" width="400">
+    </td>
+  </tr>
 
-### My Documents
+  <tr>
+    <td align="center">
+      <b>Creative Question (CQ)</b><br><br>
+      <img src="assets/screenshots/CQ.jpeg" width="400">
+    </td>
+    <td align="center">
+      <b>Question Paper Creation Workflow</b><br><br>
+      <img src="assets/screenshots/QN Paper Full Step.jpeg" width="400">
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="assets/screenshots/My Documents.jpeg" width="850">
-</p>
+  <tr>
+    <td align="center">
+      <b>Notice Maker</b><br><br>
+      <img src="assets/screenshots/Notice.jpeg" width="400">
+    </td>
+    <td align="center">
+      <b>Result Sheet</b><br><br>
+      <img src="assets/screenshots/resulte.jpeg" width="400">
+    </td>
+  </tr>
 
-### Favorites
-
-<p align="center">
-  <img src="assets/screenshots/Fav.jpeg" width="850">
-</p>
-
-### MCQ Question Paper
-
-<p align="center">
-  <img src="assets/screenshots/MCQ.jpeg" width="850">
-</p>
-
-### Creative Question (CQ)
-
-<p align="center">
-  <img src="assets/screenshots/CQ.jpeg" width="850">
-</p>
-
-### Question Paper Creation Workflow
-
-<p align="center">
-  <img src="assets/screenshots/QN Paper Full Step.jpeg" width="850">
-</p>
-
-### Notice Maker
-
-<p align="center">
-  <img src="assets/screenshots/Notice.jpeg" width="850">
-</p>
-
-### Result Sheet
-
-<p align="center">
-  <img src="assets/screenshots/resulte.jpeg" width="850">
-</p>
-
-### Backup & Restore
-
-<p align="center">
-  <img src="assets/screenshots/Backup and Restore.jpeg" width="850">
-</p>
-
-### Exam Routine
-
-<p align="center">
-  <img src="assets/screenshots/Exam Time Date.jpeg" width="850">
-</p>
-
+  <tr>
+    <td align="center">
+      <b>Backup & Restore</b><br><br>
+      <img src="assets/screenshots/Backup and Restore.jpeg" width="400">
+    </td>
+    <td align="center">
+      <b>Exam Routine</b><br><br>
+      <img src="assets/screenshots/Exam Time Date.jpeg" width="400">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🛠️ Technology:
@@ -205,4 +201,3 @@ Create educational applications and request letters using ready-to-use templates
 
 
 
- neo etay kore deo
