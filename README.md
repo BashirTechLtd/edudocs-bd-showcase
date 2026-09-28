@@ -1,10 +1,7 @@
 # 📱 EduDocs BD – Document Maker
 
-### All-in-One Educational Document Maker for Bangladesh 🇧🇩
 
-EduDocs BD is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions.
-
-It helps educators create professional educational documents quickly from a single mobile application.
+EduDocs BD All-in-One Educational Document Maker for Bangladesh is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions. It helps educators create professional educational documents quickly from a single mobile application.
 
 
 
