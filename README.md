@@ -124,23 +124,13 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
-## 🛠️ Technology
-
-### Android
-
-* Kotlin
-* Android SDK
-* Jetpack
+## 🛠️ Technology:
+* Java 
+* XML
+* Room Database
 * Material Design
-* Android UI Development
 
-### Development Tools
 
-* Android Studio
-* Git
-* GitHub
-
----
 
 ## 💡 Product Highlights
 
