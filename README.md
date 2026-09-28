@@ -151,9 +151,8 @@ Create educational applications and request letters using ready-to-use templates
 
 ## 👨‍💻 Developer
 
-### Name: Md. Bashir
-
-### My Skills
+### Name: Md Bashir
+### My Skills:
 
 - Java
 - PHP
