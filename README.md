@@ -168,10 +168,6 @@ It contains selected information, screenshots, product documentation, and techni
 
 </p>
 
-**EduDocs BD – Document Maker**
-
-Published on Google Play.
-
 ---
 
 
