@@ -101,60 +101,59 @@ Create educational applications and request letters using ready-to-use templates
 <table>
   <tr>
     <td align="center">
-      <b>Home Screen</b><br><br>
-      <img src="assets/screenshots/Home Screen.jpeg" width="400">
+      <b>Home Screen</b><br>
+      <img src="assets/screenshots/Home Screen.jpeg" width="250">
     </td>
     <td align="center">
-      <b>My Documents</b><br><br>
-      <img src="assets/screenshots/My Documents.jpeg" width="400">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Favorites</b><br><br>
-      <img src="assets/screenshots/Fav.jpeg" width="400">
-    </td>
-    <td align="center">
-      <b>MCQ Question Paper</b><br><br>
-      <img src="assets/screenshots/MCQ.jpeg" width="400">
+      <b>My Documents</b><br>
+      <img src="assets/screenshots/My Documents.jpeg" width="250">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Creative Question (CQ)</b><br><br>
-      <img src="assets/screenshots/CQ.jpeg" width="400">
+      <b>Favorites</b><br>
+      <img src="assets/screenshots/Fav.jpeg" width="250">
     </td>
     <td align="center">
-      <b>Question Paper Creation Workflow</b><br><br>
-      <img src="assets/screenshots/QN Paper Full Step.jpeg" width="400">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Notice Maker</b><br><br>
-      <img src="assets/screenshots/Notice.jpeg" width="400">
-    </td>
-    <td align="center">
-      <b>Result Sheet</b><br><br>
-      <img src="assets/screenshots/resulte.jpeg" width="400">
+      <b>MCQ Question Paper</b><br>
+      <img src="assets/screenshots/MCQ.jpeg" width="250">
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <b>Backup & Restore</b><br><br>
-      <img src="assets/screenshots/Backup and Restore.jpeg" width="400">
+      <b>Creative Question (CQ)</b><br>
+      <img src="assets/screenshots/CQ.jpeg" width="250">
     </td>
     <td align="center">
-      <b>Exam Routine</b><br><br>
-      <img src="assets/screenshots/Exam Time Date.jpeg" width="400">
+      <b>Question Paper Workflow</b><br>
+      <img src="assets/screenshots/QN Paper Full Step.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Notice Maker</b><br>
+      <img src="assets/screenshots/Notice.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>Result Sheet</b><br>
+      <img src="assets/screenshots/resulte.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Backup & Restore</b><br>
+      <img src="assets/screenshots/Backup and Restore.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>Exam Routine</b><br>
+      <img src="assets/screenshots/Exam Time Date.jpeg" width="250">
     </td>
   </tr>
 </table>
----
 
 ## 🛠️ Technology:
 * Java 
