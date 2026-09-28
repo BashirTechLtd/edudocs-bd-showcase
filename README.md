@@ -151,10 +151,13 @@ Create educational applications and request letters using ready-to-use templates
 
 ## 👨‍💻 Developer
 
-### Md Bashir
-
-**Android App Developer**
-
+### Name: Md Bashir
+### Skills:  
+          • Java 
+          • PHP
+          • Firebase 
+          • SQLite 
+          • MySQL
 Focused on building practical Android applications and exploring modern mobile technologies.
 
 ### Connect With Me
