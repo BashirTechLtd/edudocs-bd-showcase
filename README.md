@@ -1,12 +1,9 @@
 # 📱 EduDocs BD – Document Maker
 
-**EduDocs BD – All-in-One Educational Document Maker for Bangladesh**
 
-EduDocs BD is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions.
+EduDocs BD All-in-One Educational Document Maker for Bangladesh is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions. It helps educators create professional educational documents quickly from a single mobile application.
 
-It helps educators create professional educational documents quickly and efficiently from a single mobile application.
 
----
 
 ## ✨ Features
 
@@ -14,16 +11,16 @@ It helps educators create professional educational documents quickly and efficie
 
 Create question papers for different classes, subjects, and examinations.
 
-- CQ (Creative Questions)
-- MCQ (Multiple Choice Questions)
-- English Question Papers
-- SSC Examinations
-- HSC Examinations
-- Primary Examinations
-- Class 8 Scholarship Examinations
-- School Examinations
-- Coaching Center Examinations
-- Class Tests and Assessments
+* CQ (Creative Questions)
+* MCQ (Multiple Choice Questions)
+* English Question Papers
+* SSC examinations
+* HSC examinations
+* Primary examinations
+* Class 8 Scholarship examinations
+* School examinations
+* Coaching center examinations
+* Class tests and assessments
 
 ---
 
@@ -31,14 +28,14 @@ Create question papers for different classes, subjects, and examinations.
 
 Create professional educational notices using convenient templates.
 
-- General Notices
-- Exam Notices
-- Fee Notices
-- Holiday Notices
-- Admission Notices
-- Parents' Meeting Notices
-- Result Announcements
-- Important Educational Announcements
+* General Notices
+* Exam Notices
+* Fee Notices
+* Holiday Notices
+* Admission Notices
+* Parents' Meeting Notices
+* Result Announcements
+* Important Educational Announcements
 
 ---
 
@@ -46,10 +43,10 @@ Create professional educational notices using convenient templates.
 
 Create organized academic schedules for schools, coaching centers, teachers, and educational institutions.
 
-- Exam Routine
-- Class Routine
-- Subject & Schedule Management
-- Organized Printable Layouts
+* Exam Routine
+* Class Routine
+* Subject & Schedule Management
+* Organized printable layouts
 
 ---
 
@@ -57,11 +54,11 @@ Create organized academic schedules for schools, coaching centers, teachers, and
 
 Create student result sheets quickly and efficiently.
 
-- Individual Student Results
-- Class Results
-- Subject-wise Marks
-- Grade & GPA Calculation
-- Professional Result Formats
+* Individual Student Results
+* Class Results
+* Subject-wise Marks
+* Grade & GPA Calculation
+* Professional Result Formats
 
 ---
 
@@ -69,10 +66,10 @@ Create student result sheets quickly and efficiently.
 
 Create student admit cards for:
 
-- Schools
-- Coaching Centers
-- Private Educators
-- Educational Institutions
+* Schools
+* Coaching Centers
+* Private Educators
+* Educational Institutions
 
 ---
 
@@ -86,9 +83,9 @@ Create certificates for different academic and educational purposes.
 
 Prepare structured educational materials for students.
 
-- Assignment Sheets
-- Homework Sheets
-- Printable Layouts
+* Assignment Sheets
+* Homework Sheets
+* Printable layouts
 
 ---
 
@@ -98,27 +95,28 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
-## 📱 App Screenshots
 
-### 🏠 Home Screen
+## 📱 App ScreenShot
+
+### Home Screen
 
 <p align="center">
   <img src="assets/screenshots/home.png" width="280">
 </p>
 
-### 📝 Question Paper Maker
+### Question Paper Maker
 
 <p align="center">
   <img src="assets/screenshots/question-paper.png" width="280">
 </p>
 
-### 📊 Result Sheet Maker
+### Result Sheet Maker
 
 <p align="center">
   <img src="assets/screenshots/result-sheet.png" width="280">
 </p>
 
-### 📢 Notice Maker
+### Notice Maker
 
 <p align="center">
   <img src="assets/screenshots/notice.png" width="280">
@@ -126,14 +124,15 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
-## 🛠️ Technology
+## 🛠️ Technology:
+* Java 
+* XML
+* Room Database
+* Material Design
 
-- Java
-- XML
-- Room Database
-- Material Design
 
 ---
+
 
 ## 📲 Available on Google Play
 
@@ -149,11 +148,11 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
+
 ## 👨‍💻 Developer
 
 ### Name: Md Bashir
-
-### My Skills
+### My Skills:
 
 - Java
 - PHP
@@ -163,23 +162,11 @@ Create educational applications and request letters using ready-to-use templates
 
 ### Connect With Me
 
-- 💻 GitHub: [BashirTechLtd](https://github.com/BashirTechLtd)
-- 💼 LinkedIn: Coming Soon
-- ▶️ YouTube: [Md Bashir](https://www.youtube.com/@MdBashirOfficial)
+- 💻 GitHub: https://github.com/BashirTechLtd
+- 💼 LinkedIn: Comming Soon.
+- ▶️ YouTube: https://www.youtube.com/@MdBashirOfficial
 - 📧 Email: [mdbashir.dev@gmail.com](mailto:mdbashir.dev@gmail.com)
 
----
 
-## 🔐 Source Code
 
-The source code of EduDocs BD is not publicly available.
-
-This repository is created as a portfolio and product showcase for the application.
-
----
-
-<p align="center">
-
-### Built with ❤️ for educators in Bangladesh 🇧🇩
-
-</p>
+ neo etay kore deo
