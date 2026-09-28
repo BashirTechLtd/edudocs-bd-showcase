@@ -1,115 +1,130 @@
-# 📱 EduDocs BD
+# 📱 EduDocs BD – Document Maker
 
-### Education Document Builder for Bangladesh 🇧🇩
+### All-in-One Educational Document Maker for Bangladesh 🇧🇩
 
-EduDocs BD is an Android application designed to help teachers, coaching centers, and private educators create educational documents quickly and efficiently.
+EduDocs BD is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions.
 
-The application focuses on simplifying everyday document creation while supporting educational formats commonly used in Bangladesh.
+It helps educators create professional educational documents quickly from a single mobile application.
+
+> 📝 Create • 📄 Organize • 📤 Export • 🖨️ Print
 
 ---
 
-## ✨ Overview
+## 🚀 About the App
 
 Creating educational documents manually can be time-consuming.
 
-EduDocs BD brings commonly used educational document tools into a single Android application, allowing educators to create, customize, save, preview, and export documents from their mobile devices.
+**EduDocs BD** brings commonly used educational document tools together in one place, making it easier for educators to create professional documents for academic and administrative purposes.
+
+The app is designed with Bangladesh-focused educational use cases and document formats in mind.
 
 ---
 
-## 🚀 Key Features
+## ✨ Key Features
 
-### 📝 Question Paper Builder
+### 📝 Question Paper Maker
 
-Create structured question papers using formats designed for Bangladesh's educational system.
+Create question papers for different classes, subjects, and examinations.
 
-* CQ / Creative Questions
-* MCQ
-* English Questions
-* Exam-specific formats
-* Image support
-* Formula & symbol support
-* Question paper preview
-* PDF export
-* Word export
-* Booklet printing support
-
----
-
-### 📊 Result Sheet Generator
-
-Generate professional student and class result sheets.
-
-* Student information
-* Subject-wise marks
-* Automatic grade calculation
-* GPA calculation
-* Individual result card
-* Class result sheet
-* Printable result format
+* CQ (Creative Questions)
+* MCQ (Multiple Choice Questions)
+* English Question Papers
+* SSC examinations
+* HSC examinations
+* Primary examinations
+* Class 8 Scholarship examinations
+* School examinations
+* Coaching center examinations
+* Class tests and assessments
 
 ---
 
 ### 📢 Notice Maker
 
-Create different types of educational notices.
+Create professional educational notices using convenient templates.
 
-* General Notice
-* Exam Notice
-* Fee Notice
-* Holiday Notice
-* Admission Notice
-* Parents' Meeting
-* Result Announcement
+* General Notices
+* Exam Notices
+* Fee Notices
+* Holiday Notices
+* Admission Notices
+* Parents' Meeting Notices
+* Result Announcements
+* Important Educational Announcements
 
 ---
 
-### 📅 Routine Builders
+### 📅 Exam & Class Routine Maker
 
-Create organized academic schedules.
+Create organized academic schedules for schools, coaching centers, teachers, and educational institutions.
 
 * Exam Routine
 * Class Routine
-* Customizable subjects
-* Time & date management
+* Subject & Schedule Management
+* Organized printable layouts
+
+---
+
+### 📊 Result Sheet Maker
+
+Create student result sheets quickly and efficiently.
+
+* Individual Student Results
+* Class Results
+* Subject-wise Marks
+* Grade & GPA Calculation
+* Professional Result Formats
+
+---
+
+### 🎫 Admit Card Maker
+
+Create student admit cards for:
+
+* Schools
+* Coaching Centers
+* Private Educators
+* Educational Institutions
+
+---
+
+### 🏆 Certificate Maker
+
+Create certificates for different academic and educational purposes.
+
+---
+
+### 📚 Assignment & Homework Maker
+
+Prepare structured educational materials for students.
+
+* Assignment Sheets
+* Homework Sheets
 * Printable layouts
 
 ---
 
-### 📚 Educational Documents
+### 📄 Application Letter Maker
 
-Additional document creation tools include:
-
-* Syllabus
-* Certificate
-* Admit Card
-* Assignment
-* Homework
-* Application & Request Letters
+Create educational applications and request letters using ready-to-use templates.
 
 ---
 
-## 📄 Export & Printing
+## 🎯 Designed For
 
-Documents can be prepared for practical use through:
+EduDocs BD is designed for:
 
-* PDF Export
-* Microsoft Word Export
-* Direct Printing
-* Document Sharing
-* Booklet Printing
-
----
-
-## 🌐 Language Support
-
-EduDocs BD is designed with bilingual usage in mind.
-
-* 🇧🇩 Bangla
-* 🇬🇧 English
+* 👨‍🏫 School Teachers
+* 👩‍🏫 Coaching Center Teachers
+* 👨‍🎓 Private Tutors & Educators
+* 🏫 Schools & Colleges
+* 🕌 Madrasahs
+* 📚 Coaching Centers
+* 🎓 Educational Institutions
 
 ---
 
-## 📱 Screenshots
+## 📱 App Showcase
 
 ### Home Screen
 
@@ -117,13 +132,13 @@ EduDocs BD is designed with bilingual usage in mind.
   <img src="assets/screenshots/home.png" width="280">
 </p>
 
-### Question Paper Builder
+### Question Paper Maker
 
 <p align="center">
   <img src="assets/screenshots/question-paper.png" width="280">
 </p>
 
-### Result Sheet
+### Result Sheet Maker
 
 <p align="center">
   <img src="assets/screenshots/result-sheet.png" width="280">
@@ -135,24 +150,21 @@ EduDocs BD is designed with bilingual usage in mind.
   <img src="assets/screenshots/notice.png" width="280">
 </p>
 
+> 📌 More screenshots and product visuals are available in the `assets` directory.
+
 ---
 
 ## 🛠️ Technology
 
-The application is built for the Android platform using modern Android development technologies.
-
-**Platform**
-
-* Android
-
-**Development**
+### Android
 
 * Kotlin
 * Android SDK
 * Jetpack
 * Material Design
+* Android UI Development
 
-**Tools**
+### Development Tools
 
 * Android Studio
 * Git
@@ -160,72 +172,85 @@ The application is built for the Android platform using modern Android developme
 
 ---
 
-## 🧩 Product Highlights
+## 💡 Product Highlights
 
-* 📱 Mobile-first document creation
-* ⚡ Fast document generation
+* 🇧🇩 Bangladesh-focused educational use cases
+* 📱 Android-first experience
+* 📝 Multiple educational document builders
 * 🎨 Professional document layouts
-* 🇧🇩 Bangladesh-focused formats
-* 📄 PDF & Word export
-* 🖨️ Print-ready documents
-* 💾 Draft saving
-* ⭐ Favorite documents
-* 🌙 Light & Dark themes
-* 🌐 Bangla & English support
-
----
-
-## 🎯 Target Users
-
-EduDocs BD is designed for:
-
-* 👨‍🏫 School Teachers
-* 👩‍🏫 Private Tutors
-* 🏫 Coaching Centers
-* 🎓 Educational Institutions
-* 📚 Academic Professionals
+* ⚡ Fast document creation
+* 📄 Export-ready documents
+* 🖨️ Print-friendly formats
+* 📚 Multiple document categories
+* 🌐 Designed for educators
 
 ---
 
 ## 🔐 Source Code
 
-The source code for EduDocs BD is not publicly available.
+The source code of **EduDocs BD is not publicly available**.
 
-This repository is a **portfolio and product showcase** containing selected information, screenshots, and documentation about the application.
+This repository is created as a **product showcase and portfolio project**.
+
+It contains selected information, screenshots, product documentation, and technical highlights without exposing the application's proprietary source code.
 
 ---
 
-## 📲 Google Play
+## 📲 Available on Google Play
 
-**EduDocs BD is available on Google Play.**
+<p align="center">
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-Available-green?style=for-the-badge\&logo=google-play)](YOUR_PLAY_STORE_LINK)
+<a href="https://play.google.com/store/apps/details?id=com.anirbantechltd.edudocsbd">
+
+<img src="https://img.shields.io/badge/Google%20Play-View%20App-green?style=for-the-badge&logo=google-play">
+
+</a>
+
+</p>
+
+**EduDocs BD – Document Maker**
+
+Published on Google Play.
+
+---
+
+## 📈 Project Status
+
+🟢 **Published**
+
+The application is publicly available on Google Play and continues to receive updates, improvements, performance optimizations, and bug fixes.
 
 ---
 
 ## 👨‍💻 Developer
 
-**Bosir**
+### Bosir
 
-Android App Developer focused on building practical mobile applications and exploring modern technologies.
+**Android App Developer**
 
-### Connect
+Focused on building practical Android applications and exploring modern mobile technologies.
 
-* GitHub: `YOUR_GITHUB_PROFILE`
-* LinkedIn: `YOUR_LINKEDIN_URL`
-* YouTube: `YOUR_YOUTUBE_URL`
-* Email: `YOUR_EMAIL`
+### Connect With Me
+
+* 💻 GitHub: `YOUR_GITHUB_PROFILE`
+* 💼 LinkedIn: `YOUR_LINKEDIN_PROFILE`
+* ▶️ YouTube: `YOUR_YOUTUBE_CHANNEL`
+* 📧 Email: `YOUR_EMAIL`
 
 ---
 
-## ⭐ About This Project
+## ⚠️ Disclaimer
 
-EduDocs BD is a real-world Android application developed to solve practical document-creation problems faced by educators.
+EduDocs BD is an independent, privately developed application.
 
-The project focuses on usability, document formatting, offline workflows, and Bangladesh-specific educational requirements.
+It is not affiliated with, endorsed by, or an official product of the Government of Bangladesh, any government body, the Ministry of Education, NCTB, any board of education, or any specific educational institution.
+
+Document formats and layouts available in the application are provided as templates for users' convenience and do not constitute official or government-issued documents.
 
 ---
 
 <p align="center">
-  <b>Built with ❤️ for educators in Bangladesh 🇧🇩</b>
+
+### Built with ❤️ for educators in Bangladesh 🇧🇩
+
 </p>
