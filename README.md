@@ -122,8 +122,6 @@ Create educational applications and request letters using ready-to-use templates
   <img src="assets/screenshots/notice.png" width="280">
 </p>
 
-> 📌 More screenshots and product visuals are available in the `assets` directory.
-
 ---
 
 ## 🛠️ Technology
