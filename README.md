@@ -8,19 +8,9 @@ It helps educators create professional educational documents quickly from a sing
 
 > 📝 Create • 📄 Organize • 📤 Export • 🖨️ Print
 
----
 
-## 🚀 About the App
 
-Creating educational documents manually can be time-consuming.
-
-**EduDocs BD** brings commonly used educational document tools together in one place, making it easier for educators to create professional documents for academic and administrative purposes.
-
-The app is designed with Bangladesh-focused educational use cases and document formats in mind.
-
----
-
-## ✨ Key Features
+## ✨ Features
 
 ### 📝 Question Paper Maker
 
