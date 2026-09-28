@@ -235,7 +235,7 @@ Focused on building practical Android applications and exploring modern mobile t
 * 💻 GitHub: `YOUR_GITHUB_PROFILE`
 * 💼 LinkedIn: `YOUR_LINKEDIN_PROFILE`
 * ▶️ YouTube: `YOUR_YOUTUBE_CHANNEL`
-* 📧 Email: `YOUR_EMAIL`
+* 📧 Email: mdbashir.dev@gmail.com
 
 ---
 
