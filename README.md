@@ -239,18 +239,5 @@ Focused on building practical Android applications and exploring modern mobile t
 
 ---
 
-## ⚠️ Disclaimer
 
-EduDocs BD is an independent, privately developed application.
 
-It is not affiliated with, endorsed by, or an official product of the Government of Bangladesh, any government body, the Ministry of Education, NCTB, any board of education, or any specific educational institution.
-
-Document formats and layouts available in the application are provided as templates for users' convenience and do not constitute official or government-issued documents.
-
----
-
-<p align="center">
-
-### Built with ❤️ for educators in Bangladesh 🇧🇩
-
-</p>
