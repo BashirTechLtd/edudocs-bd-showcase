@@ -146,15 +146,6 @@ Create educational applications and request letters using ready-to-use templates
 
 ---
 
-## 🔐 Source Code
-
-The source code of **EduDocs BD is not publicly available**.
-
-This repository is created as a **product showcase and portfolio project**.
-
-It contains selected information, screenshots, product documentation, and technical highlights without exposing the application's proprietary source code.
-
----
 
 ## 📲 Available on Google Play
 
