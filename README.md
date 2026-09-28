@@ -151,25 +151,22 @@ Create educational applications and request letters using ready-to-use templates
 
 ## 👨‍💻 Developer
 
-### Md. Bashir
+### Name: Md. Bashir
 
-Android App Developer focused on building practical mobile applications and exploring modern technologies.
-
-### 🛠️ Skills
+### My Skills
 
 - Java
 - PHP
 - Firebase
 - SQLite
 - MySQL
+
 ### Connect With Me
 
-* 💻 GitHub: `YOUR_GITHUB_PROFILE`
-* 💼 LinkedIn: `YOUR_LINKEDIN_PROFILE`
-* ▶️ YouTube: `YOUR_YOUTUBE_CHANNEL`
-* 📧 Email: mdbashir.dev@gmail.com
-
----
+- 💻 GitHub: `YOUR_GITHUB_PROFILE`
+- 💼 LinkedIn: `YOUR_LINKEDIN_PROFILE`
+- ▶️ YouTube: `YOUR_YOUTUBE_CHANNEL`
+- 📧 Email: [mdbashir.dev@gmail.com](mailto:mdbashir.dev@gmail.com)
 
 
 
