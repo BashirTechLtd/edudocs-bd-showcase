@@ -101,25 +101,61 @@ Create educational applications and request letters using ready-to-use templates
 ### Home Screen
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="280">
+  <img src="assets/screenshots/Home Screen.jpeg" width="850">
 </p>
 
-### Question Paper Maker
+### My Documents
 
 <p align="center">
-  <img src="assets/screenshots/question-paper.png" width="280">
+  <img src="assets/screenshots/My Documents.jpeg" width="850">
 </p>
 
-### Result Sheet Maker
+### Favorites
 
 <p align="center">
-  <img src="assets/screenshots/result-sheet.png" width="280">
+  <img src="assets/screenshots/Fav.jpeg" width="850">
+</p>
+
+### MCQ Question Paper
+
+<p align="center">
+  <img src="assets/screenshots/MCQ.jpeg" width="850">
+</p>
+
+### Creative Question (CQ)
+
+<p align="center">
+  <img src="assets/screenshots/CQ.jpeg" width="850">
+</p>
+
+### Question Paper Creation Workflow
+
+<p align="center">
+  <img src="assets/screenshots/QN Paper Full Step.jpeg" width="850">
 </p>
 
 ### Notice Maker
 
 <p align="center">
-  <img src="assets/screenshots/notice.png" width="280">
+  <img src="assets/screenshots/Notice.jpeg" width="850">
+</p>
+
+### Result Sheet
+
+<p align="center">
+  <img src="assets/screenshots/resulte.jpeg" width="850">
+</p>
+
+### Backup & Restore
+
+<p align="center">
+  <img src="assets/screenshots/Backup and Restore.jpeg" width="850">
+</p>
+
+### Exam Routine
+
+<p align="center">
+  <img src="assets/screenshots/Exam Time Date.jpeg" width="850">
 </p>
 
 ---
