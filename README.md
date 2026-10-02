@@ -3,6 +3,65 @@
 
 EduDocs BD All-in-One Educational Document Maker for Bangladesh is an Android application designed for teachers, coaching centers, private tutors, schools, colleges, madrasahs, and educational institutions. It helps educators create professional educational documents quickly from a single mobile application.
 
+## 📱 App Screenshot
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Home Screen</b><br>
+      <img src="assets/screenshots/Home Screen.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>My Documents</b><br>
+      <img src="assets/screenshots/My Documents.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Favorites</b><br>
+      <img src="assets/screenshots/Fav.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>MCQ Question Paper</b><br>
+      <img src="assets/screenshots/MCQ.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Creative Question (CQ)</b><br>
+      <img src="assets/screenshots/CQ.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>Question Paper Workflow</b><br>
+      <img src="assets/screenshots/QN Paper Full Step.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Notice Maker</b><br>
+      <img src="assets/screenshots/Notice.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>Result Sheet</b><br>
+      <img src="assets/screenshots/resulte.jpeg" width="250">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <b>Backup & Restore</b><br>
+      <img src="assets/screenshots/Backup and Restore.jpeg" width="250">
+    </td>
+    <td align="center">
+      <b>Exam Routine</b><br>
+      <img src="assets/screenshots/Exam Time Date.jpeg" width="250">
+    </td>
+  </tr>
+</table>
+
 
 
 ## ✨ Features
@@ -96,64 +155,7 @@ Create educational applications and request letters using ready-to-use templates
 ---
 
 
-## 📱 App Screenshot
 
-<table>
-  <tr>
-    <td align="center">
-      <b>Home Screen</b><br>
-      <img src="assets/screenshots/Home Screen.jpeg" width="250">
-    </td>
-    <td align="center">
-      <b>My Documents</b><br>
-      <img src="assets/screenshots/My Documents.jpeg" width="250">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Favorites</b><br>
-      <img src="assets/screenshots/Fav.jpeg" width="250">
-    </td>
-    <td align="center">
-      <b>MCQ Question Paper</b><br>
-      <img src="assets/screenshots/MCQ.jpeg" width="250">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Creative Question (CQ)</b><br>
-      <img src="assets/screenshots/CQ.jpeg" width="250">
-    </td>
-    <td align="center">
-      <b>Question Paper Workflow</b><br>
-      <img src="assets/screenshots/QN Paper Full Step.jpeg" width="250">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Notice Maker</b><br>
-      <img src="assets/screenshots/Notice.jpeg" width="250">
-    </td>
-    <td align="center">
-      <b>Result Sheet</b><br>
-      <img src="assets/screenshots/resulte.jpeg" width="250">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <b>Backup & Restore</b><br>
-      <img src="assets/screenshots/Backup and Restore.jpeg" width="250">
-    </td>
-    <td align="center">
-      <b>Exam Routine</b><br>
-      <img src="assets/screenshots/Exam Time Date.jpeg" width="250">
-    </td>
-  </tr>
-</table>
 
 ## 🛠️ Technology:
 * Java 
